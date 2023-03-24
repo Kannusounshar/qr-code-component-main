@@ -8,4 +8,4 @@ I have developed a UI From Free Code Camp
 -CSS
 
 You can view the live project here:
-https://kannusounshar.github.io/qr-code-component-main/
+https://resilient-medovik-c61062.netlify.app
